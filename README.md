@@ -1,70 +1,15 @@
-<h1 align="left">Hi 👋, I'm Gil</h1>
-<h3 align="left">An Aspiring Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Gil</h1>
+<h3 align="center">An Aspiring Software Developer</h3>
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 Currently learning **React** and **Next.js**
+- 👯 Looking to collaborate on **Web & Mobile apps** and **AI-integrated projects**
+- 👨‍💻 All of my projects are at: [punzalgillian.netlify.app](https://punzalgillian.netlify.app)
+- 📫 Reach me at: **gillianrpunzal@gmail.com**
+- 📄 Know more about me: [punzalgillian.netlify.app](https://punzalgillian.netlify.app)
 
-- 👯 I’m looking to collaborate on **Web & Mobile Apps, and AI-integrated Projects**
-
-- 👨‍💻 All of my projects are available at [punzalgillian.netlify.app](https://punzalgillian.netlify.app)
-
-- 📫 How to reach me: **gillianrpunzal@gmail.com**
-
-- 📄 Learn more about my experience: [punzalgillian.netlify.app](https://punzalgillian.netlify.app)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- You can add social links here, e.g., LinkedIn, Twitter, etc. -->
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+### 🛠 Tech Stack  
+**Languages:** JavaScript, TypeScript, Python, SQL  
+**Frontend:** React, Next.js, React Native  
+**Backend:** Node.js, Express.js, Firebase  
+**Databases:** MongoDB, MySQL, PostgreSQL, MSSQL  
+**Tools:** Git, Figma, AWS (basic), Scikit-learn (basic)
