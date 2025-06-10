@@ -35,10 +35,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=PunzalGillian&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
+  <br/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunzalGillian&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PunzalGillian&icon=0&color=0" alt="Profile Views" />
-</p>
